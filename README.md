@@ -1,4 +1,4 @@
-#Beautiful beginnings in software development 🚀
+**Beautiful beginnings in software development **🚀
 
 # 👋 Hi, I'm Yolani Zito
 
