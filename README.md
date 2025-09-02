@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# My Journey in Software developmentgit  🚀
 
 # 👋 Hi, I'm Yolani Zito
 
@@ -67,8 +67,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YolaniZ)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yolani-zito-a471a9a2/)  
-📧 Email: [youremail@example.com](mailto:yolanzito@gmail.com)
+[![LinkedIn](https://img.shields.io co/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yolani-zito-a471a9a2/)  
+📧 Email: [yolanzito@gmail.com](mailto:yolanzito@gmail.com)
 
 ---
 
