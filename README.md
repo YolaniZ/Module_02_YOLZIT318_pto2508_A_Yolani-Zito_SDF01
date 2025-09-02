@@ -67,7 +67,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YolaniZ)  
-[![LinkedIn](https://www.linkedin.com/in/yolani-zito-a471a9a2/)  
+[![LinkedIn](https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yolani-zito-a471a9a2/)  
 📧 Email: [yolanzito@gmail.com](mailto:yolanzito@gmail.com)
 
 ---
